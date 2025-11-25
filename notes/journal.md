@@ -4,3 +4,5 @@
 
 - Revisit past entries for perspective.
 
+- Focus on small but important insights.
+
