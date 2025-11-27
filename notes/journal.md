@@ -8,3 +8,5 @@
 
 - Let notes grow naturally each day.
 
+- Capture brief thoughts that influence decisions.
+
