@@ -10,3 +10,5 @@
 
 - Capture brief thoughts that influence decisions.
 
+- Track personal observations that stand out.
+
