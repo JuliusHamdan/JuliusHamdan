@@ -12,3 +12,5 @@
 
 - Track personal observations that stand out.
 
+- Maintain clarity in daily written notes.
+
