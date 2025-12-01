@@ -14,3 +14,5 @@
 
 - Maintain clarity in daily written notes.
 
+- Write what feels meaningful without overthinking.
+
