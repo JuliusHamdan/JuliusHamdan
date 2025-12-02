@@ -16,3 +16,5 @@
 
 - Write what feels meaningful without overthinking.
 
+- Record ideas that might be useful later.
+
