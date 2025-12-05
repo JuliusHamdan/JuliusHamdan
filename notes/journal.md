@@ -18,3 +18,5 @@
 
 - Record ideas that might be useful later.
 
+- Focus on small but important insights.
+
