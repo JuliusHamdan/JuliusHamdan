@@ -20,3 +20,5 @@
 
 - Focus on small but important insights.
 
+- Let notes grow naturally each day.
+
