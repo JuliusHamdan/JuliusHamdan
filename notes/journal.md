@@ -22,3 +22,7 @@
 
 - Let notes grow naturally each day.
 
+
+*   Consider adding a "Contributing.md" file to outline guidelines for community contributions.
+*   Explore setting up a GitHub Actions workflow for automated testing or deployment.
+
