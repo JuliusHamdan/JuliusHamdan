@@ -26,3 +26,7 @@
 *   Consider adding a "Contributing.md" file to outline guidelines for community contributions.
 *   Explore setting up a GitHub Actions workflow for automated testing or deployment.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore potential CI/CD integration for automated testing and deployment.
+
