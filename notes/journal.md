@@ -42,3 +42,8 @@ Explore potential CI/CD integration for automated testing and deployment.
 Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 Explore potential CI/CD integrations for automated testing and deployment.
 
+
+Consider adding a `.gitignore` file to exclude build artifacts, dependencies, and sensitive information.
+
+Explore integrating a CI/CD pipeline for automated testing, building, and deployment.
+
