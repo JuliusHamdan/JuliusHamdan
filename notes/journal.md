@@ -47,3 +47,7 @@ Consider adding a `.gitignore` file to exclude build artifacts, dependencies, an
 
 Explore integrating a CI/CD pipeline for automated testing, building, and deployment.
 
+
+- Consider adding examples of how to use the generated Python code in different scenarios.
+- Include a section on potential future improvements or planned features for the repository.
+
