@@ -51,3 +51,7 @@ Explore integrating a CI/CD pipeline for automated testing, building, and deploy
 - Consider adding examples of how to use the generated Python code in different scenarios.
 - Include a section on potential future improvements or planned features for the repository.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
+Explore creating a more structured README with sections for installation, usage, and examples.
+
