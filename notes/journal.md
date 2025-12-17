@@ -59,3 +59,7 @@ Explore creating a more structured README with sections for installation, usage,
 Consider adding a "Getting Started" section with a simple example or tutorial.
 Explore CI/CD integration for automated testing and deployment.
 
+
+*   Consider a section for common Rust idioms and best practices.
+*   Explore adding a CONTRIBUTING.md file for community engagement.
+
