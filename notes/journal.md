@@ -72,3 +72,7 @@ Consider adding a `README.md` file to explain the purpose and usage of the repos
 
 Explore adding unit tests to ensure the code's functionality and stability.
 
+
+Consider adding CI/CD pipelines for automated testing and deployment.
+Explore potential contributions to open-source projects related to the repo's focus.
+
