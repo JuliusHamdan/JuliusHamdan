@@ -76,3 +76,7 @@ Explore adding unit tests to ensure the code's functionality and stability.
 Consider adding CI/CD pipelines for automated testing and deployment.
 Explore potential contributions to open-source projects related to the repo's focus.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore adding GitHub Actions for CI/CD and automated testing.
+
