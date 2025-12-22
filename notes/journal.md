@@ -80,3 +80,7 @@ Explore potential contributions to open-source projects related to the repo's fo
 Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 Explore adding GitHub Actions for CI/CD and automated testing.
 
+
+Consider adding a `README.md` with a clear description of the project's purpose and how to set it up.
+Explore potential for CI/CD integration to automate testing and deployment.
+
