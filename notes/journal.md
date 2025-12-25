@@ -88,3 +88,7 @@ Explore potential for CI/CD integration to automate testing and deployment.
 *   **Project Documentation:** Enhance README with detailed setup, usage, and contribution guidelines.
 *   **Testing Strategy:** Implement unit and integration tests for core functionalities.
 
+
+*   Consider adding a contribution guide.
+*   Explore CI/CD integration for automated testing and deployment.
+
