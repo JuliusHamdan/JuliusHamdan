@@ -96,3 +96,7 @@ Explore potential for CI/CD integration to automate testing and deployment.
 Consider adding a section for quick start/example usage.
 Explore potential for CI/CD pipeline integration.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore opportunities for unit and integration testing to ensure code stability.
+
