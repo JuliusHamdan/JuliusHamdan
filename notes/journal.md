@@ -100,3 +100,7 @@ Explore potential for CI/CD pipeline integration.
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore opportunities for unit and integration testing to ensure code stability.
 
+
+*   Consider adding a README that clearly outlines the purpose of the repository and how to use the code.
+*   Include comments within the code to explain complex logic or the purpose of specific functions.
+
