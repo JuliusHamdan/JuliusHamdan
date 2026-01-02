@@ -116,3 +116,7 @@ Explore adding CI/CD pipelines for automated testing and deployment.
 Consider adding a README.md file explaining the purpose of the repo and how to use the code.
 Explore adding unit tests to ensure the code functions as expected.
 
+
+- Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+- Explore creating a small demo or example usage section in the README.
+
