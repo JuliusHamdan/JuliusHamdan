@@ -120,3 +120,7 @@ Explore adding unit tests to ensure the code functions as expected.
 - Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 - Explore creating a small demo or example usage section in the README.
 
+
+- Consider adding contribution guidelines for new developers.
+- Explore CI/CD integration for automated testing and deployment.
+
