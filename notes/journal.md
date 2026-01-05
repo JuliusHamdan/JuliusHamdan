@@ -124,3 +124,7 @@ Explore adding unit tests to ensure the code functions as expected.
 - Consider adding contribution guidelines for new developers.
 - Explore CI/CD integration for automated testing and deployment.
 
+
+- Consider adding CI/CD pipelines for automated testing and deployment.
+- Explore open-source contributions and collaborations within relevant communities.
+
