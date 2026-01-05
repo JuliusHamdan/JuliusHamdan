@@ -128,3 +128,8 @@ Explore adding unit tests to ensure the code functions as expected.
 - Consider adding CI/CD pipelines for automated testing and deployment.
 - Explore open-source contributions and collaborations within relevant communities.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore integrating a linters and code formatter for consistent code style.
+
