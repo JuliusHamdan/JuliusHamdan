@@ -133,3 +133,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore integrating a linters and code formatter for consistent code style.
 
+
+* **Contribution Guidelines:** Clearly define how others can contribute to the project.
+* **Issue Template:** Standardize bug reports and feature requests for easier triage.
+
