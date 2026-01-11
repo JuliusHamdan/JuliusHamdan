@@ -141,3 +141,7 @@ Explore integrating a linters and code formatter for consistent code style.
 Consider adding documentation for setup and usage.
 Explore CI/CD pipeline integration.
 
+
+*   Consider a CONTRIBUTING.md file to guide potential contributors.
+*   Add a README.md with a clear project description and setup instructions.
+
