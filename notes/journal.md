@@ -145,3 +145,7 @@ Explore CI/CD pipeline integration.
 *   Consider a CONTRIBUTING.md file to guide potential contributors.
 *   Add a README.md with a clear project description and setup instructions.
 
+
+*   **Contribution Guidelines:** Define how others can contribute code, bug reports, or feature requests.
+*   **Project Roadmap:** Outline future development plans and priorities.
+
