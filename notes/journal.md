@@ -149,3 +149,7 @@ Explore CI/CD pipeline integration.
 *   **Contribution Guidelines:** Define how others can contribute code, bug reports, or feature requests.
 *   **Project Roadmap:** Outline future development plans and priorities.
 
+
+Consider adding a README.md with project overview, installation instructions, and usage examples.
+Explore CI/CD integration for automated testing and deployment.
+
