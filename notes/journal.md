@@ -153,3 +153,7 @@ Explore CI/CD pipeline integration.
 Consider adding a README.md with project overview, installation instructions, and usage examples.
 Explore CI/CD integration for automated testing and deployment.
 
+
+*   Consider adding a README.md file to explain the project's purpose, setup, and usage.
+*   Explore CI/CD integration for automated testing and deployment.
+
