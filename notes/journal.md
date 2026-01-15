@@ -157,3 +157,7 @@ Explore CI/CD integration for automated testing and deployment.
 *   Consider adding a README.md file to explain the project's purpose, setup, and usage.
 *   Explore CI/CD integration for automated testing and deployment.
 
+
+- **CI/CD Integration:** Implement automated testing and deployment pipelines for faster and more reliable releases.
+- **Contribution Guidelines:** Clearly define how others can contribute, including code style, commit message format, and pull request process.
+
