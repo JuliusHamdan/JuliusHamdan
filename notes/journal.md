@@ -161,3 +161,8 @@ Explore CI/CD integration for automated testing and deployment.
 - **CI/CD Integration:** Implement automated testing and deployment pipelines for faster and more reliable releases.
 - **Contribution Guidelines:** Clearly define how others can contribute, including code style, commit message format, and pull request process.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+
+Explore adding unit tests for core functionalities to ensure robustness and prevent regressions.
+
