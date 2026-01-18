@@ -166,3 +166,7 @@ Consider adding a CONTRIBUTING.md file to guide potential contributors.
 
 Explore adding unit tests for core functionalities to ensure robustness and prevent regressions.
 
+
+1.  **Documentation Enhancement:** Consider adding a detailed `README.md` file that explains the purpose of the repo, how to set it up, and examples of usage.
+2.  **Contribution Guidelines:** If intended for collaboration, include a `CONTRIBUTING.md` file to outline how others can contribute to the project.
+
