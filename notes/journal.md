@@ -170,3 +170,7 @@ Explore adding unit tests for core functionalities to ensure robustness and prev
 1.  **Documentation Enhancement:** Consider adding a detailed `README.md` file that explains the purpose of the repo, how to set it up, and examples of usage.
 2.  **Contribution Guidelines:** If intended for collaboration, include a `CONTRIBUTING.md` file to outline how others can contribute to the project.
 
+
+Consider adding a README.md to explain the purpose and structure of the repository.
+Explore the possibility of adding unit tests to verify the functionality of the code.
+
