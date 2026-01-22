@@ -174,3 +174,7 @@ Explore adding unit tests for core functionalities to ensure robustness and prev
 Consider adding a README.md to explain the purpose and structure of the repository.
 Explore the possibility of adding unit tests to verify the functionality of the code.
 
+
+- Implement CI/CD for automated testing and deployment.
+- Add comprehensive documentation for setup and usage.
+
