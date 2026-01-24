@@ -178,3 +178,7 @@ Explore the possibility of adding unit tests to verify the functionality of the 
 - Implement CI/CD for automated testing and deployment.
 - Add comprehensive documentation for setup and usage.
 
+
+*   Consider adding a CONTRIBUTING.md file to guide potential contributors.
+*   Explore CI/CD integration for automated testing and deployment.
+
