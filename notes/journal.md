@@ -186,3 +186,7 @@ Explore the possibility of adding unit tests to verify the functionality of the 
 1.  **Focus on Python/Data Science:** Highlight specific projects or contributions in areas like machine learning, data analysis, or web scraping.
 2.  **Contribution Guidelines:** Consider adding a `CONTRIBUTING.md` file to encourage community involvement and outline best practices for submitting issues or pull requests.
 
+
+Consider a contribution guide for new developers.
+Explore CI/CD pipeline integration for automated testing and deployment.
+
