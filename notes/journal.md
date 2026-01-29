@@ -194,3 +194,7 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 Consider adding contributions from the community or links to external resources.
 Explore integration with other AI development tools or platforms.
 
+
+- Consider adding a CONTRIBUTING.md file to guide potential contributors.
+- Explore CI/CD integration for automated testing and deployment.
+
